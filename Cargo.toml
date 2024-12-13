@@ -8,7 +8,7 @@ repository = "https://github.com/wusitee/tls-xb"
 documentation = "https://github.com/wusitee/tls-xb"
 keywords = ["cli"]
 categories = ["command-line-interface"]
-version = "0.4.0"
+version = "0.4.1"
 edition = "2021"
 
 [package.metadata.wix]
