@@ -296,7 +296,7 @@ async fn login(config: &mut Config) -> reqwest::Client {
 
 fn update() -> Result<(), Box<dyn (::std::error::Error)>> {
     let status = self_update::backends::github::Update::configure()
-        .repo_owner("hey2022")
+        .repo_owner("wusitee")
         .repo_name("tls-xb")
         .bin_name("tls-xb")
         .show_download_progress(true)
